@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "The Lost Island, Whispers of the Night, Adventures in Dreamland",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/beautiful-landscape-background_23-2151855316.jpg?t=st=1729164022~exp=1729167622~hmac=6d493e0c34c698434845a5fd6d2ccebd5e41bdd71952b66437bee62b1ceea7d8&w=360"
+    },
+    {
+        "id": 2,
+        "name": "Comic Book",
+        "title": "Supernova Chronicles, The Mighty Guardians, Space Cats: Galactic Quest",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/half-fox-half-robot-fantasy-style_23-2151601077.jpg?t=st=1729164168~exp=1729167768~hmac=919003ec48d8fee4cad6f6b053c5a9a847e792f621b84c007a950a304aef6b83&w=826"
+    },
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "Chasing Greatness: A Journey Through Sports",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/green-cricket-sports-background-with-illustration-players-golden-trophy-cup_1302-5494.jpg?t=st=1729164362~exp=1729167962~hmac=8217839b8c30079adecdf4339b6e9816fecb3d6f29ffb3c8b37fd79c75200303&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Mystery & Thriller",
+        "title": "The Silent Witness, Locked Room Secrets, The Midnight Chase",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/dark-fantasy-scene_23-2151136137.jpg?t=st=1729179688~exp=1729183288~hmac=240196c06a71625cf3137c3bdc371e72f0f5312fd17ff3151a9c26f85232afce&w=360"
+    },
+    {
+        "id": 5,
+        "name": "Science Fiction",
+        "title": "Beyond the Stars, Galactic Wars: The Uprising, Echoes of the Future",
+        "price": 40,
+        "category": "Sci-Fi",
+        "image": "https://img.freepik.com/free-photo/digital-planetary-surface-with-space-background-3d-rendering_1150-29426.jpg?t=st=1729165091~exp=1729168691~hmac=5c7a84c6aeffab6b824ab812418e83ab71cfced57445370b3d3d6c5e5b5eb656&w=826"
+    },
+    {
+        "id": 6,
+        "name": "Fantasy",
+        "title": "The Enchanted Forest, Realm of Dragons, Chronicles of Eldoria",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/door-stretching-into-fantasy-world_23-2151661331.jpg?t=st=1729179228~exp=1729182828~hmac=523b50eea8cf5882a0bd403c5f89cabf53e4b79567462e6a6f99838d59090b45&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Romance",
+        "title": "Love in the Rain, Whispered Promises, Hearts Collide",
+        "price": 100,
+        "category": "Rom-ance",
+        "image": "https://img.freepik.com/free-photo/couple-love-autumn-nature-sunset-romantic_1303-24155.jpg?t=st=1729165208~exp=1729168808~hmac=9f6ab1ccfda14d07b8760a5d16979a1e95ae229f5cc08fd75bc5d239d3b3423b&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Self-Help",
+        "title": "Embrace the Journey, The Art of Positivity, Building Resilience",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/people-practicing-winter-sports_23-2150039368.jpg?t=st=1729179380~exp=1729182980~hmac=d56f186bb061611e400eced171cb5d57c5ba368f8a02578ff337405681774133&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Biographies & Memoirs",
+        "title": "The Untold Story, Journey of a Visionary, My Life, My Words",
+        "price": 60,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-photo/lifestyle-bearded-man-with-camera_23-2149294566.jpg?t=st=1729165462~exp=1729169062~hmac=29cb9b85e8c0b3142ac1a4933b0c5e58b8e59c2af81c2fd42b6ef60e6c3e2a89&w=360"
+    },
+    {
+        "id": 10,
+        "name": "Children’s Books",
+        "title": "The Magic of Friendship, Adventures of the Little Elephant, Rainbow’s End",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-elephant-illustration_23-2151548444.jpg?t=st=1729179491~exp=1729183091~hmac=478b9286c480486177b3b2f128632998436f84ad77915f497c4c34f258c2cf2b&w=360"
+    },
+    {
+    "id": 11,
+    "name": "Horror",
+    "title": "The Haunting Shadows, Voices in the Dark, The Cursed Manor",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/creepy-scene-with-man-floating-outside-house_23-2149758920.jpg?t=st=1729179571~exp=1729183171~hmac=12a92914826b9d86d8814756a3dde0d429f5760eb13665a2284f5aa3256fd498&w=740"
+    }
+]
